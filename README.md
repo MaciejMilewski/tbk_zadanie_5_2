@@ -1,2 +1,2 @@
 # TBK - Zadanie 5.2
-- sample text
+- sample text 2
